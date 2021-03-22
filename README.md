@@ -14,7 +14,7 @@ Ces scripts permettent à un Administrateur système d'automatiser la réinitial
 -Le script install_dhcp.py installe le services DHCP. Il permet également de le configurer plus facilement, et rapidement.
 
 ### Reset_computeur.py
--Le script reset_computeur.py réinitialise automatiquement un poste client.
+-Le script reset_computeur.py réinitialise automatiquement un poste client, à l'exception de la session Administrateur de la machine.
 
 
 ## A savoir:
