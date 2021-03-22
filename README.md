@@ -1,7 +1,7 @@
 # Gestion_Coding
 
 
-Le repos Gestion_coding est basé sur des scripts d'automatisation.
+Le repos Gestion_coding est basé sur des scripts d'automatisation.    
 Ces scripts permettent à un Administrateur système d'automatiser la réinitialisation d'un poste client Linux et l'installation du service DHCP sous Linux.
 
 
