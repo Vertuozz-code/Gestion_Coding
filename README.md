@@ -20,7 +20,7 @@ Ces scripts permettent à un Administrateur système d'automatiser la réinitial
 ## A savoir:
 Ce code fonctionne uniquement dans un environnement Linux, en communication avec des postes et serveurs Linux.    
 SSH mode serveur doit être installé sur les postes, du fait que ces scripts commmuniquent avec les machines via SSH.    
-Le script reset_computer.py doit être modifié en fonction de votre contexte. Pour cela, changez 'user' par l'administrateur de votre poste client, afin de ne pas le supprimer.    
+Le script reset_computer.py doit être modifié en fonction de votre contexte. Pour cela, changez la variable ####admin par l'administrateur de votre poste client, afin de ne pas le supprimer.    
 ### Configuration des postes clients et des serveurs    
 -Installer SSH mode serveur    
 -sudo -i    
