@@ -25,7 +25,7 @@ Le script reset_computer.py doit être modifié en fonction de votre contexte. P
 -Installer SSH mode serveur    
 -sudo -i    
 -sudo visudo    
--Accéder à la ligne %sudo et éditez la comme ceci:    
+-Accédez à la ligne %sudo et éditez la comme ceci:    
   %sudo (indentation) ALL=(ALL:ALL) NOPASSWD: ALL
 
 ### Utilisation du code
