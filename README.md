@@ -31,6 +31,7 @@ Le script reset_computer.py doit être modifié en fonction de votre contexte. P
 ### Utilisation du code
 -git clone https://github.com/Kyossen/Gestion_Coding       
 -pip3 install -r requirements.txt   
+-python3 setup.py    
 
 ## Pré-requis:     
 -Python 3.x       
